@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn "D:/Workspace_Xilinx/c/MickeyMickey2017/MM2017.xst" -ofn "D:/Workspace_Xilinx/c/MickeyMickey2017/MM2017.syr" 
+xst -intstyle ise -ifn "D:/Workspace_Xilinx/c/MickeyMickey2017/MM2017.xst" -ofn "D:/Workspace_Xilinx/c/MickeyMickey2017/MM2017.syr" 
+xst -intstyle ise -ifn "D:/Workspace_Xilinx/c/MickeyMickey2017/MM2017.xst" -ofn "D:/Workspace_Xilinx/c/MickeyMickey2017/MM2017.syr" 
+xst -intstyle ise -ifn "D:/Workspace_Xilinx/c/MickeyMickey2017/MM2017.xst" -ofn "D:/Workspace_Xilinx/c/MickeyMickey2017/MM2017.syr" 
+xst -intstyle ise -ifn "D:/Workspace_Xilinx/MickeyMickey2017/MM2017.xst" -ofn "D:/Workspace_Xilinx/MickeyMickey2017/MM2017.syr" 
