@@ -2,12 +2,12 @@ Command line:
    MM2017_isim_beh.exe
      -simmode  gui
      -simrunnum  0
-     -socket  22171
+     -socket  2980
 
-Sun Apr 16 16:17:18 2017
+Thu Apr 20 15:26:51 2017
 
 
- Elaboration Time: 0.046875 sec
+ Elaboration Time: 0.015625 sec
 
  Current Memory Usage: 361.755 Meg
 
@@ -18,12 +18,12 @@ Sun Apr 16 16:17:18 2017
  Total Primitive Blocks : 2
  Total Processes        : 10
  Total Traceable Variables  : 76
- Total Scalar Nets and Variables : 7034
-Total Line Count : 258
+ Total Scalar Nets and Variables : 6873
+Total Line Count : 377
 
- Total Simulation Time: 0.0625 sec
+ Total Simulation Time: 0.046875 sec
 
  Current Memory Usage: 361.755 Meg
 
-Sun Apr 16 16:17:26 2017
+Thu Apr 20 15:27:02 2017
 

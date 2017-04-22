@@ -9,13 +9,13 @@
          <ClosedNodesVersion>2</ClosedNodesVersion>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem>MM2017 (D:/Workspace_Xilinx/MickeyMickey2017/MM2017.v)</SelectedItem>
+         <SelectedItem>MM2017 (D:/TuringLab/CC3_MickeyMouse2017_ARMv8_Processor/MickeyMickey2017/MM2017.v)</SelectedItem>
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
       <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000000c4000000020000000000000000000000000200000064ffffffff000000810000000300000002000000c40000000100000003000000000000000100000003</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
-      <CurrentItem>MM2017 (D:/Workspace_Xilinx/MickeyMickey2017/MM2017.v)</CurrentItem>
+      <CurrentItem>MM2017 (D:/TuringLab/CC3_MickeyMouse2017_ARMv8_Processor/MickeyMickey2017/MM2017.v)</CurrentItem>
    </ItemView>
    <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
       <ClosedNodes>
@@ -77,13 +77,13 @@
          <ClosedNode>/Test_MM - behavior D:|Workspace_Xilinx|c|MickeyMickey2017|Test_MM.vhd</ClosedNode>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem>Testing (D:/Workspace_Xilinx/MickeyMickey2017/Testing.v)</SelectedItem>
+         <SelectedItem>Testing (D:/TuringLab/CC3_MickeyMouse2017_ARMv8_Processor/MickeyMickey2017/Testing.v)</SelectedItem>
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
       <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000101000000020000000000000000000000000200000064ffffffff000000810000000300000002000001010000000100000003000000000000000100000003</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
-      <CurrentItem>Testing (D:/Workspace_Xilinx/MickeyMickey2017/Testing.v)</CurrentItem>
+      <CurrentItem>Testing (D:/TuringLab/CC3_MickeyMouse2017_ARMv8_Processor/MickeyMickey2017/Testing.v)</CurrentItem>
    </ItemView>
    <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
       <ClosedNodes>
@@ -116,13 +116,13 @@
          <ClosedNodesVersion>1</ClosedNodesVersion>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem>Simulate Behavioral Model</SelectedItem>
+         <SelectedItem>Behavioral Check Syntax</SelectedItem>
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
       <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
-      <CurrentItem>Simulate Behavioral Model</CurrentItem>
+      <CurrentItem>Behavioral Check Syntax</CurrentItem>
    </ItemView>
    <SourceProcessView>000000ff00000000000000020000011b0000011b01000000050100000002</SourceProcessView>
    <CurrentView>Behavioral Simulation</CurrentView>

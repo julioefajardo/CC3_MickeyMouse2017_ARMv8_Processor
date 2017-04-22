@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2017-04-16T19:00:32</DateModified>
+  <DateModified>2017-04-20T15:25:32</DateModified>
   <ModuleName>MM2017</ModuleName>
   <SummaryTimeStamp>2017-04-15T11:25:13</SummaryTimeStamp>
-  <SavedFilePath>D:/Workspace_Xilinx/MickeyMickey2017/iseconfig/MM2017.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>D:/Workspace_Xilinx/MickeyMickey2017\</ImplementationReportsDirectory>
+  <SavedFilePath>D:/TuringLab/CC3_MickeyMouse2017_ARMv8_Processor/MickeyMickey2017/iseconfig/MM2017.xreport</SavedFilePath>
+  <ImplementationReportsDirectory>D:/TuringLab/CC3_MickeyMouse2017_ARMv8_Processor/MickeyMickey2017\</ImplementationReportsDirectory>
   <DateInitialized>2017-04-15T11:20:35</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>

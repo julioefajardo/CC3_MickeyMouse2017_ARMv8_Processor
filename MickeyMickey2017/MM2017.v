@@ -86,7 +86,7 @@ module MM2017(
 	
 	parameter RET	 	= 8'hd6;
 
-	reg [32:0]  MEM [0:128] ;														// Memory
+	reg [31:0]  MEM [0:127] ;														// Memory
 	reg [63:0]  X [0:30];															// Register File
 	reg [63:0]  PC = 64'b0;															// Program Counter 
 	wire [63:0] XZR;																	// Zero register
@@ -116,7 +116,7 @@ module MM2017(
 	initial begin
 		PC <= 64'b0;																		// Program Counter Initialization	
 		ZNCV <= 4'b0;																	// Conditional Flags Initialization
-		$readmemh("program.mem",MEM,0,128);										// Memory Load 
+		$readmemh("program.mem",MEM,0,127);										// Memory Load 
 		X[0] <= 64'b0;																	// Register Inizialization
 		X[1] <= 64'b0;
 		X[2] <= 64'b0;
@@ -147,7 +147,7 @@ module MM2017(
 		X[27] <= 64'b0;
 		X[28] <= 64'b0;
 		X[29] <= 64'b0;
-		X[30] <= 64'b0;
+		X[30] <= 64'h3f;
 	end
 
 	always @ (posedge clk) begin
